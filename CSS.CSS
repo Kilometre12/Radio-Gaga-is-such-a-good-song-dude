@@ -1,0 +1,60 @@
+
+form{color:#F596C8;
+background-color: black;
+opacity:0.4;}
+
+button{color: #39ff14;
+border: dotted;
+background-color: red;}
+
+
+body, html {
+  background-image: url("poly1.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}
+
+
+p{
+  color: white;
+font-family: 'Monoton', cursive;
+font-style: italic;
+text-align: left;
+}
+
+h1{
+color: white;
+  font-size: 12;
+  font-weight: 600;
+}
+
+img {
+
+  width: 200px;
+  height: auto;
+}
+
+.navbar {position: sticky;
+  bottom: 0;
+
+  display:flex;
+  Justify-content: space-around;
+  align-items: center;
+  margin: 30px;
+  padding: 10px;
+color: white;
+  background-color: blue;
+  z-index: 1;
+}
+
+.navbar a {color:white;
+text-decoration: line-through;}
+
+.footer img{ height: 70px;
+width: auto;
+border: none;
+bottom: 0;
+filter: invert(100);
+margin: 0;}

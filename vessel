@@ -1,0 +1,9 @@
+<script type="text/javascript">
+    // Map appearance
+    var width="100%";        
+    var height="300";
+    var latitude="36.00";
+    var longitude="-5.40";
+    var zoom="8";
+</script>
+<script type="text/javascript" src="https://www.vesselfinder.com/aismap.js"></script>

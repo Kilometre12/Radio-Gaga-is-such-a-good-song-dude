@@ -1,0 +1,24 @@
+body, html{width: 100%;
+height: 100%;}
+
+header{background-color: red}
+
+.text-uppercase {color: red;
+text-decoration: line-through;
+text-decoration-color: blue;
+font-size: 20px;
+}
+
+.buffer {height: 20000px;
+}
+
+.btn-outline{color: purple;
+background-color: pink;}
+
+body, html {
+  background-image: url("kull.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size:cover;
+}

@@ -1,0 +1,28 @@
+<!Doctype html>
+      <html>
+<body
+<a href="page 4"> </a>
+
+                  <head>
+            <title> page no 4</title>
+              <h1> ammar page 4 page 4 </h1>
+              </head>
+
+            <form>
+                <label for="fname">First name:</label><br>
+                <input type="text" id="fname" name="fname"><br>
+                <label for="lname">Last name:</label><br>
+                <input type="text" id="lname" name="lname">
+                <input type="radio" id="male" name="gender" value="male">
+                 <label for="male">Male</label><br>
+                 <input type="radio" id="female" name="gender" value="female">
+                 <label for="female">Female</label><br>
+                 <input type="radio" id="other" name="gender" value="other">
+                 <label for="other">Other</label>
+              </form>
+
+
+
+
+</body>
+              </html>
